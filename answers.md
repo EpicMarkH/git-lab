@@ -67,16 +67,14 @@ Date:   Tue Jan 23 11:15:13 2024 -0500
 
 Answer 9
 {
-<<<<<<< HEAD
+
     The answer and README md files are in the repository but the content within the files are not present.
 }
-=======
+
 The answer and README md files are in the repository but the content within the files are not present.
 }
 commit update2
-<<<<<<< HEAD
->>>>>>> e50ef4cb074ae2938e79ec093016981449a129ab
-=======
+
 
 Answer 10
 {
@@ -91,4 +89,7 @@ Answer 12
 {
 When i used pull command the file was changed to match the online version with a confirmation message
 }
-
+Answer 13
+{
+.  ..  .git  .gitignore  README.md  a.out  git-lab-program.cc
+}
