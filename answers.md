@@ -67,5 +67,11 @@ Date:   Tue Jan 23 11:15:13 2024 -0500
 
 Answer 9
 {
+<<<<<<< HEAD
     The answer and README md files are in the repository but the content within the files are not present.
 }
+=======
+The answer and README md files are in the repository but the content within the files are not present.
+}
+commit update2
+>>>>>>> e50ef4cb074ae2938e79ec093016981449a129ab
