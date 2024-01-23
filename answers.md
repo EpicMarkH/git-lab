@@ -85,7 +85,10 @@ Yes the updates i made were here were reflected in my local copy
 
 Answer 11
 {
-Yes the updates I made in my local copy were reflected here
+When I used the push command it updated the files here
 }
 Answer 12
-RAGH
+{
+When i used pull command the file was changed to match the online version with a confirmation message
+}
+
