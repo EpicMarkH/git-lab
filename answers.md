@@ -85,10 +85,12 @@ Answer 11
 {
 When I used the push command it updated the files here
 }
+
 Answer 12
 {
 When i used pull command the file was changed to match the online version with a confirmation message
 }
+
 Answer 13
 {
 .  ..  .git  .gitignore  README.md  a.out  git-lab-program.cc
