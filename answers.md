@@ -74,4 +74,17 @@ Answer 9
 The answer and README md files are in the repository but the content within the files are not present.
 }
 commit update2
+<<<<<<< HEAD
 >>>>>>> e50ef4cb074ae2938e79ec093016981449a129ab
+=======
+
+Answer 10
+{
+Yes the updates i made were here were reflected in my local copy
+}
+
+Answer 11
+{
+Yes the updates I made in my local copy were reflected here
+}
+>>>>>>> 7e2e3c75b5cc2237e590263816dfe9a4b7f52cde
