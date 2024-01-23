@@ -70,3 +70,13 @@ Answer 9
 The answer and README md files are in the repository but the content within the files are not present.
 }
 commit update2
+
+Answer 10
+{
+Yes the updates i made were here were reflected in my local copy
+}
+
+Answer 11
+{
+Yes the updates I made in my local copy were reflected here
+}
